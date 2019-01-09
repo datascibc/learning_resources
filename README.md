@@ -1,5 +1,5 @@
-# Acamedics
-Shiny or similar development for AcaMedics
+# Learning Resources for Data Science
+This is an overview for those from a clinical background to begin a career in statistics / data science / machine learning.
 
 ## Path to Data Science (Short Version)
 Below is a comprehensive path to learning data science, focussed around the R statistical computer language. We choose R because its powerful, free and has a thriving online community. We've tried a lot of different things and have listed what we feel were of most use. Everyone is different, so if you found something particularly useful, let us know so we can add it to the list.
