@@ -1,10 +1,11 @@
 # Learning Resources for Data Science
 This is an overview for those from a clinical background to begin a career in statistics / data science / machine learning.
+Retraining in this field requires that you unlearn most of what you have been taught about statistics. Forget tests of significance. Most importantly, it requires a significant comitment of time, energy and love.
 
 ## Path to Data Science (Short Version)
 Below is a comprehensive path to learning data science, focussed around the R statistical computer language. We choose R because its powerful, free and has a thriving online community. We've tried a lot of different things and have listed what we feel were of most use. Everyone is different, so if you found something particularly useful, let us know so we can add it to the list.
 
-There is no shortcut to advancing in this field. Find a project, something that you feel passionate about, and get stuck in; learn by doing. A fantastic reasource to start is the tidyverse and R for data science, availible for free online here: http://r4ds.had.co.nz
+**There is no shortcut to advancing in this field**. Find a project, something that you feel passionate about, and get stuck in; learn by doing. A fantastic reasource to start is the tidyverse and R for data science, availible for free online here: http://r4ds.had.co.nz
 
 # Skill development (The Long Version)
 Below is a list of some areas that are important to develop on your journey into data science. These are aimed at someone who is interested and motivated, but from a clinical background, and so not formally trained in these methods. I have inlcuded links to amazon for books, but mostly just for reference. Ask for a link to a shared dropbox folder for electronic materials for the majority of them, plenty of others are published online for free. We also keep other copies in the lab which we are happy for you to borrow (please ask first).
