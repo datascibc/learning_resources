@@ -59,9 +59,14 @@ There has been an explosion in the availibility of online courses. They vary fro
 ## Databases
 - Need stuff here
 
+## Specific Statistical Topics
+- Machine Learning - "An Introduction to Statistical Learning", James, Spriner. Solid basic introduction to the common methods used in machine learning. Accessible, written for R and lots of practice questions.
+- Mixed Effects Models - "Mixed Effects Models and Extensions in Ecology with R" Zuur, Springer. Absolutely brilliant and accessible books to the topic of modelling correlated data. Be a little cautious of their model selection proceedures however, as they are questionable.
+
 ## Interesting Reads
 - The Book of Why (causal inference)
 - Observation and Experiment
+- The Lady Tasting Tea, Salsburg (history of statistics)
 
 ## Lab Meetings
 - We meet every Monday morning to discuss ongoing projects. Everyone is welcome to attend and watch or present. No matter the size, scale or complexity, we would encourge you to present any work as a way to crowd source solutions to problems and figure out what the next step might be.
