@@ -12,10 +12,8 @@ Below is a list of some areas that are important to develop on your journey into
 
 ## Maths
 - The foundation of data science is rooted in probability and statistics. As clinicians this can be extremely limiting in the long run as we typically have at most an A-level in maths (often from a very long time ago). Key areas to focus on are:
-  - Calculus
   - Probability
   - Linear algebra
-  - Set theory
   - Statistical notation
 - It isn't necessary to become completely independently proficient in these areas. Rather, the focus should be to gain an intution for what is going on. Ultimately you want to become an applied researcher, but some core theory is required.
 - Once you have these basic tools, you will have the basic skills to understand the language of statistics and make the most out of your data (... and get away from hypothesis testing!). All that is needed here is a conceptual overview of how these things work.
