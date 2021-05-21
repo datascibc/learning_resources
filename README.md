@@ -37,7 +37,7 @@ There has been an explosion in the availibility of online courses. They vary fro
 |   Essence of Linear Algebra |              Linear Algebra |          https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists | Free | 5/5         |
 | The World of Maths          | General Maths at all levels | www.khanacademy.com                                                         | Free | 5/5         |
 | Machine Learning - Coursera | ML                          | https://www.coursera.org/learn/machine-learning                             | £58  | Recommended |
-| Maths for Machine Learning  | Linear Algebra              | https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome | £48  | 4/5         |
+| Maths for Machine Learning  | Linear Algebra, Multivariate Calculus, PCA              | [Coursera](https://www.coursera.org/specializations/mathematics-machine-learning), [Youtube (FREE!)](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) | £48/Free  | 4/5         |
 
 
 ## R
@@ -48,17 +48,20 @@ There has been an explosion in the availibility of online courses. They vary fro
 - Data Science for Doctors: This is a shameless plug for our own course that we run at the RCoA every few months. It provides a comprehensive introduction to R for the uninitiated.
 
 ## Python
-- We need some recommendations here
+- [CHME0031: Software Development with Python for Health Data Science](https://www.ucl.ac.uk/health-informatics/software-development-python-health-data-science) is an MSc module run by the IHI. UCL-registered students will be able to audit this course for free which will give you access to videos + Jupyter notebooks on moodle. Starts from scratch and includes examples relevant to healthcare.
+- [Research Software Engineering](https://github.com/UCL/rsd-engineeringcourse) also offered through the Alan Turing Institute, but all content is freely available on github for self-directed learning. Detailed Jupyter notebooks covering all aspects of scientific software development with Python. This is definitely NOT a beginner course, you will need some decent experience with another language (suggested = reasonable experience in at least one compiled language, such as C++, C, or Fortran, and at least one dynamic language, such as Python, Ruby, Matlab or R). 
 
 ## UNIX
 - vim adventures (www.vimadventures.com) is a brilliant way to learn your way around vim (a unix based text editor).
 - William E. Shotts has written an ebook on unix which is open source and a great overview of how unix works http://linuxcommand.org/tlcl.php
 
 ## Databases
-- Need stuff here
+- [W3 schools SQL Tutorials](https://www.w3schools.com/sql/default.asp) basic examples of all SQL functions, a good place to start.
+- [Apache Spark by Example](https://sparkbyexamples.com/) does what it says on the tin, a lot of examples transferable to/from SQL.
 
 ## Specific Statistical Topics
 - Machine Learning - "An Introduction to Statistical Learning", James, Spriner. Solid basic introduction to the common methods used in machine learning. Accessible, written for R and lots of practice questions.
+- - Machine Learning - "The Elements of Statistical Learning: Data Mining, Inference & Prediction", Hastie, Springer. As above, but not R focussed. [Freely available online](https://web.stanford.edu/~hastie/Papers/ESLII.pdf).
 - Mixed Effects Models - "Mixed Effects Models and Extensions in Ecology with R" Zuur, Springer. Absolutely brilliant and accessible books to the topic of modelling correlated data. Be a little cautious of their model selection proceedures however, as they are questionable.
 
 ## Interesting Reads
@@ -67,4 +70,4 @@ There has been an explosion in the availibility of online courses. They vary fro
 - The Lady Tasting Tea, Salsburg (history of statistics)
 
 ## Lab Meetings
-- We meet every Monday morning to discuss ongoing projects. Everyone is welcome to attend and watch or present. No matter the size, scale or complexity, we would encourge you to present any work as a way to crowd source solutions to problems and figure out what the next step might be.
+- We meet every Wednesday afternoon (14:00-15:30) to discuss ongoing projects. Everyone is welcome to attend and watch or present. No matter the size, scale or complexity, we would encourge you to present any work as a way to crowd source solutions to problems and figure out what the next step might be.
